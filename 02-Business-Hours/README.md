@@ -11,9 +11,9 @@ The goal is to ensure that Salesforce calculates service response times, SLAs, a
 
 # Business Scenario
 
-## Company: ABC
+## Company: ABC Solutions
 
-GlobalTech Solutions provides customer support services across multiple regions.
+ABC Solutions provides customer support services across multiple regions.
 
 The company uses Salesforce Service Cloud to manage customer Cases.
 
@@ -30,7 +30,7 @@ The support leadership team has the following requirements:
 
 ## Support Centers
 
-GlobalTech has three support locations:
+ABC has three support locations:
 
 | Region | Time Zone | Working Hours |
 |---|---|---|
