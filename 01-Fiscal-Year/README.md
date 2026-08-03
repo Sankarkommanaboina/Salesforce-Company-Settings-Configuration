@@ -24,6 +24,12 @@ The company follows:
 **Fiscal Year Start:** April 1  
 **Fiscal Year End:** March 31
 
+<img width="1663" height="623" alt="image" src="https://github.com/user-attachments/assets/62b48910-45b0-4327-9b9f-75a12ac6dac0" />
+
+<img width="1601" height="574" alt="image" src="https://github.com/user-attachments/assets/6cee2aee-1476-4607-a8e6-fda06ccca6d8" />
+
+
+
 The Finance team requires Salesforce reports, dashboards, and forecasts to follow this financial calendar.
 
 ---
@@ -132,8 +138,9 @@ To validate the configuration:
 | Opportunity | Close Date | Amount |
 |------------|------------|--------|
 | ABC Software Deal | May 15, 2026 | $100,000 |
-| XYZ Enterprise Deal | August 20, 2026 | $150,000 |
+| XYZ Enterprise Deal | August 2, 2026 | $150,000 |
 
+<img width="1905" height="144" alt="image" src="https://github.com/user-attachments/assets/d3d1b62f-326b-4781-a078-4243f01455cf" />
 
 ---
 
@@ -152,6 +159,7 @@ Expected Result:
 | ABC Software Deal | Q1 |
 | XYZ Enterprise Deal | Q2 |
 
+<img width="1909" height="716" alt="image" src="https://github.com/user-attachments/assets/17844468-e292-46f6-94fc-648e3e1fa208" />
 
 ---
 
