@@ -236,4 +236,24 @@ Expected Result:
 
 Case should expire on Monday at 4:00 PM.
 
+
+
+<img width="800" height="176" alt="image" src="https://github.com/user-attachments/assets/a8eb39b5-d0ab-4d17-9b0c-dcb5cb10ba42" />
+
+
+<img width="1656" height="374" alt="image" src="https://github.com/user-attachments/assets/3ee81366-a16c-4afc-b488-4f4aebc97568" />
+
+
+<img width="1657" height="485" alt="image" src="https://github.com/user-attachments/assets/3446d2f8-e20e-4646-aca0-0b31711164cd" />
+
+
+<img width="1268" height="602" alt="image" src="https://github.com/user-attachments/assets/dbd486ad-394d-41e4-b3b7-6b774a0c55ce" />
+
+
+
+
+
+
+
+
 ---
