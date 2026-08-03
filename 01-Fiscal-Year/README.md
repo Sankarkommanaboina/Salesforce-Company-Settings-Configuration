@@ -133,7 +133,7 @@ To validate the configuration:
 |------------|------------|--------|
 | ABC Software Deal | May 15, 2026 | $100,000 |
 | XYZ Enterprise Deal | August 20, 2026 | $150,000 |
-| DEF Cloud Deal | February 10, 2027 | $200,000 |
+
 
 ---
 
@@ -151,7 +151,7 @@ Expected Result:
 |------------|----------------|
 | ABC Software Deal | Q1 |
 | XYZ Enterprise Deal | Q2 |
-| DEF Cloud Deal | Q4 |
+
 
 ---
 
